@@ -77,9 +77,8 @@ _Additional details (file formats, image resolution, approximate size, metadata 
 **About the study:** The study combined high-frequency seismic and gas emission data from field instruments near Mount Etna. It found that rises in gas emissions and changes in seismic tremor appeared before periods of eruptive activity, suggesting that monitoring both together gives earlier and more reliable warning than either signal alone.
 
 ### Group members
-- Irmak Özdemir
-- Serap Türk
-- Nathanael Sheehan
+- ...
+- ...
 
 ### About our data
 **Volcanology Sensor Dataset** – high-frequency seismic and gas emission data from field instruments near Mount Etna.
@@ -90,10 +89,10 @@ _Additional details (instruments, sampling rate, time period, file formats, appr
 
 | Principle | What we will do |
 |-----------|-----------------|
-| **Findable** (persistent identifiers, rich metadata, indexed in a searchable resource) | To make our volcanology and seismology dataset findable, we would assign it a unique and persistent identifier, such as a DOI. We would also include detailed metadata, such as the location, time range, coordinates, measurements, and sensor types. The metadata should clearly include the dataset's DOI so that people can identify it easily. Finally, we would publish the dataset on a searchable platform like Zenodo, so other researchers can find and access it. |
-| **Accessible** (retrievable via open protocols, metadata available even if data is restricted) | To make our volcanology and seismology dataset accessible, researchers could access the data using a standard, open, and free protocol like HTTPS. If necessary, we could use a login and permission system to control access to sensitive data. We should also make sure that the metadata remains available even if the dataset is removed or no longer accessible. For example, we could keep information about monitoring stations and regularly back up both the data and metadata. |
-| **Interoperable** (standard formats, shared vocabularies) | To make our volcanology and seismology dataset interoperable, we could use SOSA, which stands for Sensor, Observation, Sample, and Actuator. This would help us describe our data using shared and standardized terms, such as sensors and observations. We could also link each observation to the sensor that collected the data. This would make it easier for other researchers and systems to understand and use our dataset. |
-| **Reusable** (clear licence, provenance, community standards) | To make our volcanology and seismology dataset reusable, we should provide information about data quality and any missing data. We would also use a clear license, such as CC BY 4.0, so other researchers can reuse the data with proper credit. We should document where the data comes from, including the organisations and monitoring stations involved. Finally, we would follow international standards, such as FDSN standards for seismological data, to make sure our dataset can be easily understood and reused by other researchers. |
+| **Findable** (persistent identifiers, rich metadata, indexed in a searchable resource) | ... |
+| **Accessible** (retrievable via open protocols, metadata available even if data is restricted) | ... |
+| **Interoperable** (standard formats, shared vocabularies) | ... |
+| **Reusable** (clear licence, provenance, community standards) | ... |
 
 ### Where we will deposit the data
 
@@ -124,8 +123,10 @@ _Additional details (instruments, sampling rate, time period, file formats, appr
 **About the study:** The study used hydrophone recordings from the North Sea to monitor whale communication alongside ship noise. It found that when ship noise was high, whales called less often and changed the pitch and loudness of their calls, indicating that shipping noise interferes with their ability to communicate.
 
 ### Group members
-- ...
-- ...
+- Justine
+- Qurat ul Ain
+- Atena
+- Eli
 
 ### About our data
 **Marine Acoustic Monitoring** – hydrophone recordings from the North Sea monitoring whale communication and ship noise.
@@ -182,10 +183,10 @@ _Additional details (interview length, language(s), transcripts, consent forms, 
 
 | Principle | What we will do |
 |-----------|-----------------|
-| **Findable** (persistent identifiers, rich metadata, indexed in a searchable resource) | ... |
-| **Accessible** (retrievable via open protocols, metadata available even if data is restricted) | ... |
-| **Interoperable** (standard formats, shared vocabularies) | ... |
-| **Reusable** (clear licence, provenance, community standards) | ... |
+| **Findable** (persistent identifiers, rich metadata, indexed in a searchable resource) | F1. (meta)data are assigned a globally unique and persistent identifier: Register DOI. F2. data are described with rich metadata (defined by R1 below): Date, Time of day, Speaker, Age, Location/Neighborhood of Munich, Country of origin, Occupation, Types of changes discussed, File type, Duration of Interview, Copyrights, Informed Consent. F3. metadata clearly and explicitly include the identifier of the data it describes: DOI  .wav master audio file, an, a .docx transcript, and a .pdf signed legal release form. F4. (meta)data are registered or indexed in a searchable resource:  PID, Zenodo (but with anonymous identities, ID code instead of names)|
+| **Accessible** (retrievable via open protocols, metadata available even if data is restricted) | A1. (meta)data are retrievable by their identifier using a standardized communications protocol. A1.1 the protocol is open, free, and universally implementable HTTPS protocol. A1.2 the protocol allows for an authentication and authorization procedure, where necessary - name/sensitive info protected . The descriptive metadata would be public access and media files will have protected access. A2. metadata are accessible, even when the data are no longer available. Metadata stays published on Zonodo |
+| **Interoperable** (standard formats, shared vocabularies) | I1. (meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation. File format: .wav (open, not compressed), interviews in German. I2. (meta)data use vocabularies that follow FAIR principles: Geography - map/definition of neighborhoods Munich, Data Semantics for oral history. I3. (meta)data include qualified references to other (meta)data  |
+| **Reusable** (clear licence, provenance, community standards) | R1. meta(data) are richly described with a plurality of accurate and relevant attributes. Detailed metadata attributes. R1.1. (meta)data are released with a clear and accessible data usage license: CC license. R1.2. (meta)data are associated with detailed provenance: Maintain Interview records for each Interview .eg.Transcripts ,who is the interviewer ? When and where did the interviews take place? etc. R1.3. (meta)data meet domain-relevant community standards: https://oralhistory.org/metadata/ descriptive metadata available eg. file properties (length, format, …), information on informed consent of the interviewees, Structural and preservational metadata related to audio files |
 
 ### Where we will deposit the data
 
